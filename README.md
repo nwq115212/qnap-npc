@@ -1,5 +1,5 @@
 # qnap-npc
-威联通的npc安装包 使用yisier大佬的后继版本：https://github.com/yisier/nps，使用的版本为v0.26.38
+威联通的npc安装包 使用yisier大佬的后继版本，使用的版本为v0.26.38：https://github.com/yisier/nps
 ## 适用范围
 
 - Intel / AMD 的 x86-64 威联通 NAS；不支持 ARM 或 32 位 x86。
